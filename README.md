@@ -43,4 +43,5 @@ We are going to run 10 kings of analysis & EDA with Power BI
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, one pie chart,bar graph,line chart,Gauge
 
 
-[Screenshot 2024-07-13 114647](https://github.com/user-attachments/assets/9043c6f7-0ba9-4219-a743-6f4770697f43)
+![Screenshot 2024-07-13 114647](https://github.com/user-attachments/assets/1ec979df-3666-4c33-92f0-208bfa5a8aef)
+
