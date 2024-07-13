@@ -1,2 +1,2 @@
-# Netflix_Data_Analysis_Using_Power_Bi
-Netflix Dashboard using power bi
+
+[README (2).md](https://github.com/user-attachments/files/16202794/README.2.md)
